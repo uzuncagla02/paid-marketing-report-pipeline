@@ -1,0 +1,26 @@
+# Column mapping per platform export. Each platform names the same metric differently.
+# Canonical names on the left, platform-specific column names on the right.
+
+meta:
+  date: "Reporting starts"
+  campaign: "Campaign name"
+  spend: "Amount spent (USD)"
+  impressions: "Impressions"
+  clicks: "Link clicks"
+  conversions: "Results"
+
+tiktok:
+  date: "Date"
+  campaign: "Campaign Name"
+  spend: "Cost"
+  impressions: "Impressions"
+  clicks: "Clicks"
+  conversions: "Conversions"
+
+google:
+  date: "Day"
+  campaign: "Campaign"
+  spend: "Cost"
+  impressions: "Impr."
+  clicks: "Clicks"
+  conversions: "Conversions"
